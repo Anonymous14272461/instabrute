@@ -10,3 +10,5 @@ chmod +x instabrute.sh
 ./instabrute.sh
 ```
 <img src="https://img.shields.io/github/downloads/4lxprime/instabrute/total?color=%23daff00&style=flat-square">
+
+(il vous faudra installer tor pour qu'il puisse marcher)
